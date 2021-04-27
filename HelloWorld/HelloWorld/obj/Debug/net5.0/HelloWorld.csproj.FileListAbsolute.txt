@@ -1,0 +1,16 @@
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\Repo_LPOO_2021\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
